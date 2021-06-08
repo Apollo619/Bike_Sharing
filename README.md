@@ -35,5 +35,4 @@ Using **Citibike** data from **New York City**, I generated key visualization ch
 
 ## Summary:
 
-
-[](https://public.tableau.com/app/profile/ryan.meredith/viz/CitibikeAnalysis_16230869013610/NYCCitibikeAnalysis)
+[DM_Bikesharing](https://public.tableau.com/app/profile/ryan.meredith/viz/CitibikeAnalysis_16230869013610/NYCCitibikeAnalysis)
